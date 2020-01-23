@@ -26,7 +26,7 @@ JUMP LK	8LK	4	6
 JUMP MK	8MK	7	4														
 JUMP HK	8HK	10	4														
 																	
-Nouten Wari	6HP	22	1(0)3	20	45	-6	1	1									
+Nouten Wari	6HP	22	1(0)3	20	45	-7	1	1									
 																	
 Tsurigane Otoshi	6LP+LK	5	2	18	24	KD	KD	KD			55	6	6				
 Mikoshi	4LP+LK	5	2	18	24	KD	KD	KD			62	13	13				
@@ -196,7 +196,7 @@ YZ STAND LP Chain	5LP > 2LP	4	2(7)2	8	22	2	3	5						2	1
 YZ STAND MP	5MP	5	2	16	22	2	8	10						14	8		
 YZ STAND HP Whiff	5HP	12	2	25	38	-2	2	4						12	8		5 FRAME EXTRA RECOVERY ON WHIFF
 YZ STAND HP Hit/Block	5HP	12	2	20	33	-2	2	4						12	8		RUN STOP: 0/-4 |  EX RUN STOP: +2/-2
-YZ STAND LK	5LK	4	4	7	14	3	4	6						3	2		RUN STOP: -9/-10 |  EX RUN STOP: -7/-8
+YZ STAND LK	5LK	4	3	10	14	3	4	6						3	2		RUN STOP: -9/-10 |  EX RUN STOP: -7/-8
 YZ STAND MK	5MK	7	3	17	26	-3	2	4						10	5		
 YZ STAND HK Whiff	5HK	12	4	24	39	-2	3	5						14	9		5 FRAME EXTRA RECOVERY ON WHIFF
 YZ STAND HK Hit/Block	5HK	12	4	19	34	-2	3	5						14	9		[FRAME 9-19] HOP OVER LOW ATTACKS
@@ -217,8 +217,8 @@ YZ JUMP LK	8LK	5	6
 YZ JUMP MK	8MK	7	4														
 YZ JUMP HK	8HK	8	4														
 																	
-YZ Kubi Kudaki	6HP	22	1(0)1	22	45	-6	1	1									
-YZ Kaeshi Saiha	5HP > 5HP	10	2	25		-8	KD	KD			88	29	34				
+YZ Kubi Kudaki	6HP	22	1(0)1	22	45	-7	1	1									
+YZ Kaeshi Saiha	5HP > 5HP	10	2	25		-12	KD	KD			88	29	34				
 YZ Kagerou	5HP > 5HP > MP+MK	14	2	31		-7	KD	KD			81	22	27	KD (+103/44/49)	7		
 YZ Kaeshi Urasaiha	2HP > 2HP	9	1	28		-8	KD	KD			86	27	32				
 YZ Urakagerou	2HP > 2HP > MP+MK	14	2	31		-7	KD	KD			81	22	27	KD (+103/44/49)	7		
